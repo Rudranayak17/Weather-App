@@ -26,7 +26,7 @@ This Weather App provides real-time weather information for a given location. It
 
 ## Screenshots
 
-![Weather App Screenshot](cool-background.png)
+![Weather App Screenshot](Weather%20App%20-%20Google%20Chrome%208_21_2023%201_19_57%20AM.png)
 
 ## Getting Started
 
